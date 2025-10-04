@@ -7,3 +7,4 @@ Repositoris of this organization contain code from various challenges, hackatons
 - Bohdan Boklah
 - Kateryna Prylutska
 - Denys Stepchyn
+- Oleh Zapara
